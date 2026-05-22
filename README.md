@@ -1,6 +1,4 @@
 # 📦 Warehouse Inventory App
-**CS-360: Mobile Architecture and Programming | SNHU**
-*Dylan Harmon*
 
 A simple inventory management application developed during CS-360 at SNHU. The purpose of this application is to maintain quantity on stock and provide users with quick on-the-go access to current inventory, with the ability to add or remove inventory items from a local database.
 
@@ -203,6 +201,3 @@ A hypothetical Google Play Store launch plan was written as the final assignment
 
 ---
 
-## ❤️ Acknowledgements
-
-Built as part of **SNHU CS-360: Mobile Architecture and Programming**.
