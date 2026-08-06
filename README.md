@@ -1,6 +1,6 @@
 # 📦 Warehouse Inventory App
 
-A simple inventory management application developed during CS-360 at SNHU. The purpose of this application is to maintain quantity on stock and provide users with quick on-the-go access to current inventory, with the ability to add or remove inventory items from a local database.
+This is a simple inventory management application. The purpose of this application is to maintain quantity on stock and provide users with quick on-the-go access to current inventory, with the ability to add or remove inventory items from a local database.
 
 ---
 
@@ -39,7 +39,7 @@ The app features a login screen with authentication, and a main page that displa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DPHarmon/CS360_Mobile_Architecture_Project.git
+  https://github.com/Prajwal-404/warehouse-inventory-app.git
    ```
 2. Open the project in **Android Studio**
 3. Wait for **Gradle sync** to complete
