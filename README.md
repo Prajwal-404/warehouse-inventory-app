@@ -38,9 +38,9 @@ The app features a login screen with authentication, and a main page that displa
 ## 🚀 Installation
 
 1. Clone the repository:
-   ```bash
-  https://github.com/Prajwal-404/warehouse-inventory-app.git
-   ```
+ ```bash
+git clone https://github.com/Prajwal-404/warehouse-inventory-app.git
+```
 2. Open the project in **Android Studio**
 3. Wait for **Gradle sync** to complete
 4. Connect a device or start an emulator (API 26+)
@@ -79,7 +79,7 @@ The app features a login screen with authentication, and a main page that displa
 ## 🗂️ Repository Structure
 
 ```
-CS360_Mobile_Architecture_Project/
+warehouse-inventory-app/
 │
 ├── .idea/                          # Android Studio project configuration (do not edit)
 │   ├── .gitignore
