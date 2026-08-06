@@ -185,19 +185,5 @@ warehouse-inventory-app/
 ```
 ---
 
-## 🚀 App Launch Plan (Project 3)
 
-A hypothetical Google Play Store launch plan was written as the final assignment for CS-360:
-
-- **App Name Candidates** — *StockTracker* or *The Vault*. "Stock" was favored for dual-meaning discoverability alongside stock market apps on the Play Store.
-- **UI Improvements** — Darker color scheme (smoke gray + gold trim) proposed to reduce eye strain under warehouse fluorescent lighting.
-- **Icon** — A safe/vault icon concept to reinforce the security and storage theme.
-- **Play Store SMS Policy** — SMS must be declared a core function in the store listing or Google restricts it to POST_NOTIFICATIONS only.
-- **Monetization** — One-time purchase, no ads, optional free trial:
-
-| Tier 1 Standard | Tier 2 Small Business | Tier 3 Mid-Large Business |
-|---|---|---|
-| $14.99 — 1 Device | $49.99 — 5 Devices | $149.99 — 25 Devices |
-
----
 
